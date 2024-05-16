@@ -1,0 +1,3 @@
+Barcelona,2,3,Real Madrid,20
+PSG,1,3,Borusia Dortmund,50
+Man United,2,2,Man City,90
